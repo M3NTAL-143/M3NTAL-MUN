@@ -1,5 +1,5 @@
 {
-  "author": " Mental",
+  "author": "Nayan",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "𝐓𝐮𝐤 𝐓𝐮𝐤𝐢",
+  "BOTNAME": "MENTAL-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100004315652286",
